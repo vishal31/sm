@@ -1,3 +1,12 @@
+# How to use this project
+
+-- first clone this project
+-- also clone https://github.com/vishal31/sm-nodejs
+--because sm-reactjs is depend on sm-nodejs for api
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
